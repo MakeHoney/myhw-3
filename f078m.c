@@ -2,7 +2,7 @@
 #include <string.h>
 #include <sys/resource.h>
 
-// #include "run.h"
+ #include "run.h"
 #include "util.h"
 
 query *query_list = 0;
